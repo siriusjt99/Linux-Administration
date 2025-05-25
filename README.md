@@ -2,9 +2,9 @@
 
 **Linux Administration (For Beginner)**
 
-1.User and Group management
+1. User and Group management
 
-[1]Add user
+🔹 Add user
 
 -useradd<username>
 
